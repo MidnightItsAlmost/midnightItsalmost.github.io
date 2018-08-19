@@ -1,70 +1,70 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="MidnightItsAlmost.github.io" resolutions="1x" timestamp="1534683670366">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="MidnightItsAlmost.github.io" resolutions="1x" timestamp="1534684345302">
   <folder name="css">
     <file name="site_global.css" crc="149902051"/>
     <file name="master__fixed_-_4_-structure.css" crc="144737175" ref="offences:purchasing:activation:registration"/>
     <file name="nomq_preview_master__fixed_-_4_-structure.css" crc="3987489769" ref="offences:purchasing:activation:registration"/>
-    <file name="master__fixed_.css" crc="228261821" ref="offences:rvcs:history-p8:purchasing:history-p7:activation:history-p1:history:history-p5:registration:history-p2:history-p4:subject-matter:history-p6:the-sky-is-falling:history-p3:contact:electrical-engine:love-glasses"/>
-    <file name="nomq_preview_master__fixed_.css" crc="4050499962" ref="offences:rvcs:history-p8:purchasing:history-p7:activation:history-p1:history:history-p5:registration:history-p2:history-p4:subject-matter:history-p6:the-sky-is-falling:history-p3:contact:electrical-engine:love-glasses"/>
+    <file name="master__fixed_.css" crc="354645934" ref="offences:rvcs:history-p8:purchasing:history-p7:activation:history-p1:history:history-p5:registration:history-p2:history-p4:subject-matter:history-p6:the-sky-is-falling:history-p3:contact:electrical-engine:love-glasses"/>
+    <file name="nomq_preview_master__fixed_.css" crc="208969914" ref="offences:rvcs:history-p8:purchasing:history-p7:activation:history-p1:history:history-p5:registration:history-p2:history-p4:subject-matter:history-p6:the-sky-is-falling:history-p3:contact:electrical-engine:love-glasses"/>
     <file name="master__fixed_-_2_-wisdom.css" crc="127676645" ref="subject-matter:the-sky-is-falling"/>
     <file name="nomq_preview_master__fixed_-_2_-wisdom.css" crc="4134082887" ref="subject-matter:the-sky-is-falling"/>
-    <file name="master___fluid__.css" crc="4061891687" ref="wisdom:products:development:home:404:structure"/>
-    <file name="nomq_preview_master___fluid__.css" crc="3935538662" ref="wisdom:products:development:home:404:structure"/>
+    <file name="master___fluid__.css" crc="3793797617" ref="wisdom:products:development:home:404:structure"/>
+    <file name="nomq_preview_master___fluid__.css" crc="3797421432" ref="wisdom:products:development:home:404:structure"/>
     <file name="master__fixed_-_3_-products.css" crc="326577384" ref="rvcs:electrical-engine:love-glasses"/>
     <file name="nomq_preview_master__fixed_-_3_-products.css" crc="397586870" ref="rvcs:electrical-engine:love-glasses"/>
     <file name="master__fixed_-_8_-history.css" crc="419460225" ref="history-p8:history-p7:history-p1:history:history-p5:history-p2:history-p4:history-p6:history-p3"/>
     <file name="nomq_preview_master__fixed_-_8_-history.css" crc="4182618164" ref="history-p8:history-p7:history-p1:history:history-p5:history-p2:history-p4:history-p6:history-p3"/>
-    <file name="offences.css" crc="4129517944" ref="offences"/>
-    <file name="nomq_offences.css" crc="4119240581" ref="offences"/>
-    <file name="index.css" crc="397779021" ref="index"/>
-    <file name="nomq_index.css" crc="4101146662" ref="index"/>
-    <file name="wisdom.css" crc="4044618682" ref="wisdom"/>
-    <file name="nomq_wisdom.css" crc="3950419110" ref="wisdom"/>
-    <file name="rvcs.css" crc="4043602101" ref="rvcs"/>
-    <file name="nomq_rvcs.css" crc="4001305133" ref="rvcs"/>
-    <file name="history-p8.css" crc="3814645854" ref="history-p8"/>
-    <file name="nomq_history-p8.css" crc="246001387" ref="history-p8"/>
-    <file name="purchasing.css" crc="4051348359" ref="purchasing"/>
-    <file name="nomq_purchasing.css" crc="4241270198" ref="purchasing"/>
-    <file name="history-p7.css" crc="6130093" ref="history-p7"/>
-    <file name="nomq_history-p7.css" crc="40546355" ref="history-p7"/>
-    <file name="activation.css" crc="3870751523" ref="activation"/>
-    <file name="nomq_activation.css" crc="4214503496" ref="activation"/>
-    <file name="products.css" crc="77716914" ref="products"/>
-    <file name="nomq_products.css" crc="23202462" ref="products"/>
-    <file name="history-p1.css" crc="3915653158" ref="history-p1"/>
-    <file name="nomq_history-p1.css" crc="324821913" ref="history-p1"/>
-    <file name="history.css" crc="205461979" ref="history"/>
-    <file name="nomq_history.css" crc="3880931051" ref="history"/>
-    <file name="history-p5.css" crc="345705492" ref="history-p5"/>
-    <file name="nomq_history-p5.css" crc="4078827052" ref="history-p5"/>
-    <file name="registration.css" crc="408754803" ref="registration"/>
-    <file name="nomq_registration.css" crc="240984507" ref="registration"/>
-    <file name="development.css" crc="359903555" ref="development"/>
-    <file name="nomq_development.css" crc="343520907" ref="development"/>
-    <file name="history-p2.css" crc="4227341481" ref="history-p2"/>
-    <file name="nomq_history-p2.css" crc="3954287073" ref="history-p2"/>
-    <file name="home.css" crc="4031493360" ref="home"/>
-    <file name="nomq_home.css" crc="148602321" ref="home"/>
-    <file name="404.css" crc="107866084" ref="404"/>
-    <file name="nomq_404.css" crc="3805294052" ref="404"/>
-    <file name="history-p4.css" crc="53279147" ref="history-p4"/>
-    <file name="nomq_history-p4.css" crc="407967266" ref="history-p4"/>
-    <file name="subject-matter.css" crc="217045199" ref="subject-matter"/>
-    <file name="nomq_subject-matter.css" crc="4217410073" ref="subject-matter"/>
-    <file name="history-p6.css" crc="128935768" ref="history-p6"/>
-    <file name="nomq_history-p6.css" crc="3765060734" ref="history-p6"/>
-    <file name="the-sky-is-falling.css" crc="3898893152" ref="the-sky-is-falling"/>
-    <file name="nomq_the-sky-is-falling.css" crc="4105760495" ref="the-sky-is-falling"/>
-    <file name="structure.css" crc="479477759" ref="structure"/>
-    <file name="nomq_structure.css" crc="3867129329" ref="structure"/>
-    <file name="history-p3.css" crc="458544128" ref="history-p3"/>
-    <file name="nomq_history-p3.css" crc="445074649" ref="history-p3"/>
-    <file name="contact.css" crc="301828991" ref="contact"/>
-    <file name="nomq_contact.css" crc="491302242" ref="contact"/>
-    <file name="electrical-engine.css" crc="4246657441" ref="electrical-engine"/>
-    <file name="nomq_electrical-engine.css" crc="492472196" ref="electrical-engine"/>
-    <file name="love-glasses.css" crc="243776644" ref="love-glasses"/>
-    <file name="nomq_love-glasses.css" crc="3770735126" ref="love-glasses"/>
+    <file name="offences.css" crc="4082577950" ref="offences"/>
+    <file name="nomq_offences.css" crc="469533193" ref="offences"/>
+    <file name="index.css" crc="3878753915" ref="index"/>
+    <file name="nomq_index.css" crc="3916698466" ref="index"/>
+    <file name="wisdom.css" crc="4163031882" ref="wisdom"/>
+    <file name="nomq_wisdom.css" crc="3976281248" ref="wisdom"/>
+    <file name="rvcs.css" crc="283991736" ref="rvcs"/>
+    <file name="nomq_rvcs.css" crc="4094672380" ref="rvcs"/>
+    <file name="history-p8.css" crc="3867325304" ref="history-p8"/>
+    <file name="nomq_history-p8.css" crc="53774793" ref="history-p8"/>
+    <file name="purchasing.css" crc="3839233423" ref="purchasing"/>
+    <file name="nomq_purchasing.css" crc="4261797362" ref="purchasing"/>
+    <file name="history-p7.css" crc="36991159" ref="history-p7"/>
+    <file name="nomq_history-p7.css" crc="366171093" ref="history-p7"/>
+    <file name="activation.css" crc="4050373799" ref="activation"/>
+    <file name="nomq_activation.css" crc="4242947608" ref="activation"/>
+    <file name="products.css" crc="308192408" ref="products"/>
+    <file name="nomq_products.css" crc="4192547902" ref="products"/>
+    <file name="history-p1.css" crc="158091549" ref="history-p1"/>
+    <file name="nomq_history-p1.css" crc="4077705112" ref="history-p1"/>
+    <file name="history.css" crc="4053908306" ref="history"/>
+    <file name="nomq_history.css" crc="4106968104" ref="history"/>
+    <file name="history-p5.css" crc="204069587" ref="history-p5"/>
+    <file name="nomq_history-p5.css" crc="181591071" ref="history-p5"/>
+    <file name="registration.css" crc="471156695" ref="registration"/>
+    <file name="nomq_registration.css" crc="140042361" ref="registration"/>
+    <file name="development.css" crc="343769347" ref="development"/>
+    <file name="nomq_development.css" crc="269905827" ref="development"/>
+    <file name="history-p2.css" crc="178313819" ref="history-p2"/>
+    <file name="nomq_history-p2.css" crc="3851581412" ref="history-p2"/>
+    <file name="home.css" crc="3990137890" ref="home"/>
+    <file name="nomq_home.css" crc="3979578921" ref="home"/>
+    <file name="404.css" crc="3962276985" ref="404"/>
+    <file name="nomq_404.css" crc="4186923120" ref="404"/>
+    <file name="history-p4.css" crc="4257713473" ref="history-p4"/>
+    <file name="nomq_history-p4.css" crc="3852765064" ref="history-p4"/>
+    <file name="subject-matter.css" crc="3978045466" ref="subject-matter"/>
+    <file name="nomq_subject-matter.css" crc="3856752714" ref="subject-matter"/>
+    <file name="history-p6.css" crc="3842357527" ref="history-p6"/>
+    <file name="nomq_history-p6.css" crc="183081631" ref="history-p6"/>
+    <file name="the-sky-is-falling.css" crc="113350856" ref="the-sky-is-falling"/>
+    <file name="nomq_the-sky-is-falling.css" crc="4164714185" ref="the-sky-is-falling"/>
+    <file name="structure.css" crc="371658745" ref="structure"/>
+    <file name="nomq_structure.css" crc="3967258606" ref="structure"/>
+    <file name="history-p3.css" crc="3895091688" ref="history-p3"/>
+    <file name="nomq_history-p3.css" crc="3890161569" ref="history-p3"/>
+    <file name="contact.css" crc="4285416072" ref="contact"/>
+    <file name="nomq_contact.css" crc="4239404899" ref="contact"/>
+    <file name="electrical-engine.css" crc="4286918674" ref="electrical-engine"/>
+    <file name="nomq_electrical-engine.css" crc="337740008" ref="electrical-engine"/>
+    <file name="love-glasses.css" crc="4130439678" ref="love-glasses"/>
+    <file name="nomq_love-glasses.css" crc="87201763" ref="love-glasses"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:structure:registration:activation:purchasing:offences:contact:404:development:history-p1:history-p2:products:wisdom:history:love-glasses:electrical-engine:rvcs:the-sky-is-falling:subject-matter:history-p3:history-p4:history-p5:history-p6:history-p7:history-p8:home"/>
@@ -94,9 +94,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u80145-10.png" crc="7919921" ref="index"/>
-    <file name="symbol-1-crop-u362392.png" crc="117985447" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="mia-sym.gif" crc="82091130" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -108,34 +105,16 @@
     </file>
     <file name="u174605-11.png" crc="62992150" ref="index"/>
     <file name="u80145-102.png" crc="7919921" ref="index"/>
-    <file name="symbol-1-crop-u3623922.png" crc="117985447" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="u174605-112.png" crc="62992150" ref="index"/>
     <file name="u80145-103.png" crc="7919921" ref="index"/>
-    <file name="symbol-1-crop-u3623923.png" crc="117985447" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="u174605-113.png" crc="62992150" ref="index"/>
     <file name="u80145-104.png" crc="7919921" ref="index"/>
-    <file name="symbol-1-crop-u3623924.png" crc="117985447" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="u174605-114.png" crc="62992150" ref="index"/>
     <file name="u80145-105.png" crc="7919921" ref="index"/>
-    <file name="symbol-1-crop-u3623925.png" crc="117985447" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="u174605-115.png" crc="62992150" ref="index"/>
     <file name="u80145-106.png" crc="7919921" ref="index"/>
-    <file name="symbol-1-crop-u3623926.png" crc="117985447" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="u174605-116.png" crc="62992150" ref="index"/>
     <file name="u80145-107.png" crc="7919921" ref="index"/>
-    <file name="symbol-1-crop-u3623927.png" crc="117985447" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="u174605-117.png" crc="62992150" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:structure:registration:activation:purchasing:offences:contact:404:development:history-p1:history-p2:products:wisdom:history:love-glasses:electrical-engine:rvcs:the-sky-is-falling:subject-matter:history-p3:history-p4:history-p5:history-p6:history-p7:history-p8:home"/>
     <file name="(_fluid_)-favicon.ico" crc="284952484" ref="structure"/>
@@ -310,18 +289,18 @@
     <file name="bk-development-u192595-fr3.jpg" crc="4287957808" ref="development"/>
     <file name="bk-development-u192595-fr4.jpg" crc="4293348508" ref="development"/>
     <file name="bk-history.jpg" crc="65428043" seo="true" ref="history-p1:history-p2:history:history-p3:history-p4:history-p5:history-p6:history-p7:history-p8">
-      <caption webpage="history-p8" alt=""/>
-      <caption webpage="history-p8" alt=""/>
-      <caption webpage="history-p8" alt=""/>
-      <caption webpage="history-p3" alt=""/>
-      <caption webpage="history-p3" alt=""/>
-      <caption webpage="history-p3" alt=""/>
-      <caption webpage="history-p2" alt=""/>
-      <caption webpage="history-p2" alt=""/>
-      <caption webpage="history-p2" alt=""/>
       <caption webpage="history-p6" alt=""/>
       <caption webpage="history-p6" alt=""/>
       <caption webpage="history-p6" alt=""/>
+      <caption webpage="history-p3" alt=""/>
+      <caption webpage="history-p3" alt=""/>
+      <caption webpage="history-p3" alt=""/>
+      <caption webpage="history-p5" alt=""/>
+      <caption webpage="history-p5" alt=""/>
+      <caption webpage="history-p5" alt=""/>
+      <caption webpage="history-p8" alt=""/>
+      <caption webpage="history-p8" alt=""/>
+      <caption webpage="history-p8" alt=""/>
       <caption webpage="history-p7" alt=""/>
       <caption webpage="history-p7" alt=""/>
       <caption webpage="history-p7" alt=""/>
@@ -331,35 +310,14 @@
       <caption webpage="history-p1" alt=""/>
       <caption webpage="history-p1" alt=""/>
       <caption webpage="history-p1" alt=""/>
-      <caption webpage="history-p5" alt=""/>
-      <caption webpage="history-p5" alt=""/>
-      <caption webpage="history-p5" alt=""/>
+      <caption webpage="history-p2" alt=""/>
+      <caption webpage="history-p2" alt=""/>
+      <caption webpage="history-p2" alt=""/>
       <caption webpage="history-p4" alt=""/>
       <caption webpage="history-p4" alt=""/>
       <caption webpage="history-p4" alt=""/>
     </file>
     <file name="header-history.jpg" crc="67189822" seo="true" ref="history-p1:history-p2:history:history-p3:history-p4:history-p5:history-p6:history-p7:history-p8">
-      <caption webpage="history-p8" alt=""/>
-      <caption webpage="history-p8" alt=""/>
-      <caption webpage="history-p8" alt=""/>
-      <caption webpage="history-p8" alt=""/>
-      <caption webpage="history-p8" alt=""/>
-      <caption webpage="history-p8" alt=""/>
-      <caption webpage="history-p8" alt=""/>
-      <caption webpage="history-p3" alt=""/>
-      <caption webpage="history-p3" alt=""/>
-      <caption webpage="history-p3" alt=""/>
-      <caption webpage="history-p3" alt=""/>
-      <caption webpage="history-p3" alt=""/>
-      <caption webpage="history-p3" alt=""/>
-      <caption webpage="history-p3" alt=""/>
-      <caption webpage="history-p2" alt=""/>
-      <caption webpage="history-p2" alt=""/>
-      <caption webpage="history-p2" alt=""/>
-      <caption webpage="history-p2" alt=""/>
-      <caption webpage="history-p2" alt=""/>
-      <caption webpage="history-p2" alt=""/>
-      <caption webpage="history-p2" alt=""/>
       <caption webpage="history-p6" alt=""/>
       <caption webpage="history-p6" alt=""/>
       <caption webpage="history-p6" alt=""/>
@@ -367,6 +325,27 @@
       <caption webpage="history-p6" alt=""/>
       <caption webpage="history-p6" alt=""/>
       <caption webpage="history-p6" alt=""/>
+      <caption webpage="history-p3" alt=""/>
+      <caption webpage="history-p3" alt=""/>
+      <caption webpage="history-p3" alt=""/>
+      <caption webpage="history-p3" alt=""/>
+      <caption webpage="history-p3" alt=""/>
+      <caption webpage="history-p3" alt=""/>
+      <caption webpage="history-p3" alt=""/>
+      <caption webpage="history-p5" alt=""/>
+      <caption webpage="history-p5" alt=""/>
+      <caption webpage="history-p5" alt=""/>
+      <caption webpage="history-p5" alt=""/>
+      <caption webpage="history-p5" alt=""/>
+      <caption webpage="history-p5" alt=""/>
+      <caption webpage="history-p5" alt=""/>
+      <caption webpage="history-p8" alt=""/>
+      <caption webpage="history-p8" alt=""/>
+      <caption webpage="history-p8" alt=""/>
+      <caption webpage="history-p8" alt=""/>
+      <caption webpage="history-p8" alt=""/>
+      <caption webpage="history-p8" alt=""/>
+      <caption webpage="history-p8" alt=""/>
       <caption webpage="history-p7" alt=""/>
       <caption webpage="history-p7" alt=""/>
       <caption webpage="history-p7" alt=""/>
@@ -387,13 +366,13 @@
       <caption webpage="history-p1" alt=""/>
       <caption webpage="history-p1" alt=""/>
       <caption webpage="history-p1" alt=""/>
-      <caption webpage="history-p5" alt=""/>
-      <caption webpage="history-p5" alt=""/>
-      <caption webpage="history-p5" alt=""/>
-      <caption webpage="history-p5" alt=""/>
-      <caption webpage="history-p5" alt=""/>
-      <caption webpage="history-p5" alt=""/>
-      <caption webpage="history-p5" alt=""/>
+      <caption webpage="history-p2" alt=""/>
+      <caption webpage="history-p2" alt=""/>
+      <caption webpage="history-p2" alt=""/>
+      <caption webpage="history-p2" alt=""/>
+      <caption webpage="history-p2" alt=""/>
+      <caption webpage="history-p2" alt=""/>
+      <caption webpage="history-p2" alt=""/>
       <caption webpage="history-p4" alt=""/>
       <caption webpage="history-p4" alt=""/>
       <caption webpage="history-p4" alt=""/>
@@ -695,31 +674,40 @@
     <file name="bk-home-page-fr.jpg" crc="3761249445" ref="home"/>
     <file name="bk-home-page-fr2.jpg" crc="3814859940" ref="home"/>
     <file name="bk-home-page-fr3.jpg" crc="153559400" ref="home"/>
+    <file name="symbol-1.png" crc="298486885" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="274377652" seo="true" mt="1534683631507" redirect="true"/>
-  <file name="structure.html" crc="4158620623" seo="true" mt="1534679422221" redirect="true"/>
-  <file name="registration.html" crc="348692927" seo="true" mt="1534682510920" redirect="true"/>
-  <file name="activation.html" crc="323385927" seo="true" mt="1534682454594" redirect="true"/>
-  <file name="purchasing.html" crc="459819297" seo="true" mt="1534683229532" redirect="true"/>
-  <file name="offences.html" crc="455025920" seo="true" mt="1534682407020" redirect="true"/>
-  <file name="contact.html" crc="3959943761" seo="true" mt="1534667131575" redirect="true"/>
-  <file name="404.html" crc="517087173" seo="true" mt="1534669117310" redirect="true"/>
-  <file name="development.html" crc="23038038" seo="true" mt="1534679303372" redirect="true"/>
-  <file name="history-p1.html" crc="4218842746" seo="true" mt="1534682334857" redirect="true"/>
-  <file name="history-p2.html" crc="3854326038" seo="true" mt="1534682263186" redirect="true"/>
-  <file name="products.html" crc="275350459" seo="true" mt="1534676911833" redirect="true"/>
-  <file name="wisdom.html" crc="124526411" seo="true" mt="1534681979802" redirect="true"/>
-  <file name="history.html" crc="170216007" seo="true" mt="1534682375783" redirect="true"/>
-  <file name="love-glasses.html" crc="4184170421" seo="true" mt="1534681702168" redirect="true"/>
-  <file name="electrical-engine.html" crc="257596287" seo="true" mt="1534681778567" redirect="true"/>
-  <file name="rvcs.html" crc="3882662405" seo="true" mt="1534681922627" redirect="true"/>
-  <file name="the-sky-is-falling.html" crc="438864278" seo="true" mt="1534682158890" redirect="true"/>
-  <file name="subject-matter.html" crc="4250245731" seo="true" mt="1534683229235" redirect="true"/>
-  <file name="history-p3.html" crc="328408285" seo="true" mt="1534680592908" redirect="true"/>
-  <file name="history-p4.html" crc="71622160" seo="true" mt="1534680834427" redirect="true"/>
-  <file name="history-p5.html" crc="4112615463" seo="true" mt="1534681004598" redirect="true"/>
-  <file name="history-p6.html" crc="4229154145" seo="true" mt="1534681114675" redirect="true"/>
-  <file name="history-p7.html" crc="4096804073" seo="true" mt="1534681218752" redirect="true"/>
-  <file name="history-p8.html" crc="309087928" seo="true" mt="1534681394978" redirect="true"/>
-  <file name="home.html" crc="3830743121" seo="true" mt="1534683229017" redirect="true"/>
+  <file name="index.html" crc="497165298" seo="true" mt="1534684307816" redirect="true"/>
+  <file name="structure.html" crc="4120716525" seo="true" mt="1534683773389" redirect="true"/>
+  <file name="registration.html" crc="4294404759" seo="true" mt="1534683814388" redirect="true"/>
+  <file name="activation.html" crc="4262569386" seo="true" mt="1534683814388" redirect="true"/>
+  <file name="purchasing.html" crc="4150399635" seo="true" mt="1534683814388" redirect="true"/>
+  <file name="offences.html" crc="437293838" seo="true" mt="1534683814388" redirect="true"/>
+  <file name="contact.html" crc="129612709" seo="true" mt="1534683814388" redirect="true"/>
+  <file name="404.html" crc="360481504" seo="true" mt="1534683773389" redirect="true"/>
+  <file name="development.html" crc="513526615" seo="true" mt="1534683773389" redirect="true"/>
+  <file name="history-p1.html" crc="4153623088" seo="true" mt="1534683814388" redirect="true"/>
+  <file name="history-p2.html" crc="4165193955" seo="true" mt="1534683814388" redirect="true"/>
+  <file name="products.html" crc="4268458205" seo="true" mt="1534683773389" redirect="true"/>
+  <file name="wisdom.html" crc="443365060" seo="true" mt="1534683773389" redirect="true"/>
+  <file name="history.html" crc="4047567389" seo="true" mt="1534683814388" redirect="true"/>
+  <file name="love-glasses.html" crc="105016298" seo="true" mt="1534683814388" redirect="true"/>
+  <file name="electrical-engine.html" crc="4158705606" seo="true" mt="1534683814388" redirect="true"/>
+  <file name="rvcs.html" crc="3892397857" seo="true" mt="1534683814388" redirect="true"/>
+  <file name="the-sky-is-falling.html" crc="4230852531" seo="true" mt="1534683814388" redirect="true"/>
+  <file name="subject-matter.html" crc="4113509992" seo="true" mt="1534683814388" redirect="true"/>
+  <file name="history-p3.html" crc="531507655" seo="true" mt="1534683814388" redirect="true"/>
+  <file name="history-p4.html" crc="4123740484" seo="true" mt="1534683814388" redirect="true"/>
+  <file name="history-p5.html" crc="4221618034" seo="true" mt="1534683814388" redirect="true"/>
+  <file name="history-p6.html" crc="4026924524" seo="true" mt="1534683814388" redirect="true"/>
+  <file name="history-p7.html" crc="4190620448" seo="true" mt="1534683814388" redirect="true"/>
+  <file name="history-p8.html" crc="33866251" seo="true" mt="1534683814388" redirect="true"/>
+  <file name="home.html" crc="3770436632" seo="true" mt="1534683773389" redirect="true"/>
 </manifest>
