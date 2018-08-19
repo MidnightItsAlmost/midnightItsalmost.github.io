@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="MidnightItsAlmost.github.io" resolutions="1x" timestamp="1534683420532">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="MidnightItsAlmost.github.io" resolutions="1x" timestamp="1534683670366">
   <folder name="css">
     <file name="site_global.css" crc="149902051"/>
     <file name="master__fixed_-_4_-structure.css" crc="144737175" ref="offences:purchasing:activation:registration"/>
@@ -15,7 +15,7 @@
     <file name="nomq_preview_master__fixed_-_8_-history.css" crc="4182618164" ref="history-p8:history-p7:history-p1:history:history-p5:history-p2:history-p4:history-p6:history-p3"/>
     <file name="offences.css" crc="4129517944" ref="offences"/>
     <file name="nomq_offences.css" crc="4119240581" ref="offences"/>
-    <file name="index.css" crc="69689198" ref="index"/>
+    <file name="index.css" crc="397779021" ref="index"/>
     <file name="nomq_index.css" crc="4101146662" ref="index"/>
     <file name="wisdom.css" crc="4044618682" ref="wisdom"/>
     <file name="nomq_wisdom.css" crc="3950419110" ref="wisdom"/>
@@ -696,7 +696,7 @@
     <file name="bk-home-page-fr2.jpg" crc="3814859940" ref="home"/>
     <file name="bk-home-page-fr3.jpg" crc="153559400" ref="home"/>
   </folder>
-  <file name="index.html" crc="112418885" seo="true" mt="1534665299040" redirect="true"/>
+  <file name="index.html" crc="274377652" seo="true" mt="1534683631507" redirect="true"/>
   <file name="structure.html" crc="4158620623" seo="true" mt="1534679422221" redirect="true"/>
   <file name="registration.html" crc="348692927" seo="true" mt="1534682510920" redirect="true"/>
   <file name="activation.html" crc="323385927" seo="true" mt="1534682454594" redirect="true"/>
