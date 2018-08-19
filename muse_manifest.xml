@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="MidnightItsAlmost.github.io" resolutions="1x" timestamp="1534685478878">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="MidnightItsAlmost.github.io" resolutions="1x" timestamp="1534685923953">
   <folder name="css">
     <file name="site_global.css" crc="149902051"/>
     <file name="master__fixed_-_4_-structure.css" crc="144737175" ref="offences:purchasing:activation:registration"/>
@@ -31,8 +31,8 @@
     <file name="nomq_activation.css" crc="4242947608" ref="activation"/>
     <file name="products.css" crc="308192408" ref="products"/>
     <file name="nomq_products.css" crc="4192547902" ref="products"/>
-    <file name="history-p1.css" crc="158091549" ref="history-p1"/>
-    <file name="nomq_history-p1.css" crc="4077705112" ref="history-p1"/>
+    <file name="history-p1.css" crc="4142930635" ref="history-p1"/>
+    <file name="nomq_history-p1.css" crc="4207389503" ref="history-p1"/>
     <file name="history.css" crc="4053908306" ref="history"/>
     <file name="nomq_history.css" crc="4106968104" ref="history"/>
     <file name="history-p5.css" crc="204069587" ref="history-p5"/>
@@ -132,7 +132,7 @@
     </file>
     <file name="bk-structure-page-fr.jpg" crc="310543381" ref="structure"/>
     <file name="bk-structure-page-fr2.jpg" crc="3993634236" ref="structure"/>
-    <file name="_fixed_-favicon.ico" crc="284952484" ref="registration:love-glasses"/>
+    <file name="_fixed_-favicon.ico" crc="284952484" ref="registration:love-glasses:history-p1"/>
     <file name="bk-registration.jpg" crc="342721004" seo="true" ref="registration">
       <caption webpage="registration" alt=""/>
       <caption webpage="registration" alt=""/>
@@ -289,18 +289,18 @@
     <file name="bk-development-u192595-fr3.jpg" crc="4287957808" ref="development"/>
     <file name="bk-development-u192595-fr4.jpg" crc="4293348508" ref="development"/>
     <file name="bk-history.jpg" crc="65428043" seo="true" ref="history-p1:history-p2:history:history-p3:history-p4:history-p5:history-p6:history-p7:history-p8">
-      <caption webpage="history-p6" alt=""/>
-      <caption webpage="history-p6" alt=""/>
-      <caption webpage="history-p6" alt=""/>
-      <caption webpage="history-p3" alt=""/>
-      <caption webpage="history-p3" alt=""/>
-      <caption webpage="history-p3" alt=""/>
-      <caption webpage="history-p5" alt=""/>
-      <caption webpage="history-p5" alt=""/>
-      <caption webpage="history-p5" alt=""/>
       <caption webpage="history-p8" alt=""/>
       <caption webpage="history-p8" alt=""/>
       <caption webpage="history-p8" alt=""/>
+      <caption webpage="history-p3" alt=""/>
+      <caption webpage="history-p3" alt=""/>
+      <caption webpage="history-p3" alt=""/>
+      <caption webpage="history-p2" alt=""/>
+      <caption webpage="history-p2" alt=""/>
+      <caption webpage="history-p2" alt=""/>
+      <caption webpage="history-p6" alt=""/>
+      <caption webpage="history-p6" alt=""/>
+      <caption webpage="history-p6" alt=""/>
       <caption webpage="history-p7" alt=""/>
       <caption webpage="history-p7" alt=""/>
       <caption webpage="history-p7" alt=""/>
@@ -310,35 +310,14 @@
       <caption webpage="history-p1" alt=""/>
       <caption webpage="history-p1" alt=""/>
       <caption webpage="history-p1" alt=""/>
-      <caption webpage="history-p2" alt=""/>
-      <caption webpage="history-p2" alt=""/>
-      <caption webpage="history-p2" alt=""/>
+      <caption webpage="history-p5" alt=""/>
+      <caption webpage="history-p5" alt=""/>
+      <caption webpage="history-p5" alt=""/>
       <caption webpage="history-p4" alt=""/>
       <caption webpage="history-p4" alt=""/>
       <caption webpage="history-p4" alt=""/>
     </file>
     <file name="header-history.jpg" crc="67189822" seo="true" ref="history-p1:history-p2:history:history-p3:history-p4:history-p5:history-p6:history-p7:history-p8">
-      <caption webpage="history-p6" alt=""/>
-      <caption webpage="history-p6" alt=""/>
-      <caption webpage="history-p6" alt=""/>
-      <caption webpage="history-p6" alt=""/>
-      <caption webpage="history-p6" alt=""/>
-      <caption webpage="history-p6" alt=""/>
-      <caption webpage="history-p6" alt=""/>
-      <caption webpage="history-p3" alt=""/>
-      <caption webpage="history-p3" alt=""/>
-      <caption webpage="history-p3" alt=""/>
-      <caption webpage="history-p3" alt=""/>
-      <caption webpage="history-p3" alt=""/>
-      <caption webpage="history-p3" alt=""/>
-      <caption webpage="history-p3" alt=""/>
-      <caption webpage="history-p5" alt=""/>
-      <caption webpage="history-p5" alt=""/>
-      <caption webpage="history-p5" alt=""/>
-      <caption webpage="history-p5" alt=""/>
-      <caption webpage="history-p5" alt=""/>
-      <caption webpage="history-p5" alt=""/>
-      <caption webpage="history-p5" alt=""/>
       <caption webpage="history-p8" alt=""/>
       <caption webpage="history-p8" alt=""/>
       <caption webpage="history-p8" alt=""/>
@@ -346,6 +325,27 @@
       <caption webpage="history-p8" alt=""/>
       <caption webpage="history-p8" alt=""/>
       <caption webpage="history-p8" alt=""/>
+      <caption webpage="history-p3" alt=""/>
+      <caption webpage="history-p3" alt=""/>
+      <caption webpage="history-p3" alt=""/>
+      <caption webpage="history-p3" alt=""/>
+      <caption webpage="history-p3" alt=""/>
+      <caption webpage="history-p3" alt=""/>
+      <caption webpage="history-p3" alt=""/>
+      <caption webpage="history-p2" alt=""/>
+      <caption webpage="history-p2" alt=""/>
+      <caption webpage="history-p2" alt=""/>
+      <caption webpage="history-p2" alt=""/>
+      <caption webpage="history-p2" alt=""/>
+      <caption webpage="history-p2" alt=""/>
+      <caption webpage="history-p2" alt=""/>
+      <caption webpage="history-p6" alt=""/>
+      <caption webpage="history-p6" alt=""/>
+      <caption webpage="history-p6" alt=""/>
+      <caption webpage="history-p6" alt=""/>
+      <caption webpage="history-p6" alt=""/>
+      <caption webpage="history-p6" alt=""/>
+      <caption webpage="history-p6" alt=""/>
       <caption webpage="history-p7" alt=""/>
       <caption webpage="history-p7" alt=""/>
       <caption webpage="history-p7" alt=""/>
@@ -366,13 +366,14 @@
       <caption webpage="history-p1" alt=""/>
       <caption webpage="history-p1" alt=""/>
       <caption webpage="history-p1" alt=""/>
-      <caption webpage="history-p2" alt=""/>
-      <caption webpage="history-p2" alt=""/>
-      <caption webpage="history-p2" alt=""/>
-      <caption webpage="history-p2" alt=""/>
-      <caption webpage="history-p2" alt=""/>
-      <caption webpage="history-p2" alt=""/>
-      <caption webpage="history-p2" alt=""/>
+      <caption webpage="history-p1" alt=""/>
+      <caption webpage="history-p5" alt=""/>
+      <caption webpage="history-p5" alt=""/>
+      <caption webpage="history-p5" alt=""/>
+      <caption webpage="history-p5" alt=""/>
+      <caption webpage="history-p5" alt=""/>
+      <caption webpage="history-p5" alt=""/>
+      <caption webpage="history-p5" alt=""/>
       <caption webpage="history-p4" alt=""/>
       <caption webpage="history-p4" alt=""/>
       <caption webpage="history-p4" alt=""/>
@@ -693,7 +694,7 @@
   <file name="contact.html" crc="129612709" seo="true" mt="1534683814388" redirect="true"/>
   <file name="404.html" crc="4066007086" seo="true" mt="1534685463969" redirect="true"/>
   <file name="development.html" crc="513526615" seo="true" mt="1534683773389" redirect="true"/>
-  <file name="history-p1.html" crc="4153623088" seo="true" mt="1534683814388" redirect="true"/>
+  <file name="history-p1.html" crc="3835587660" seo="true" mt="1534685899649" redirect="true"/>
   <file name="history-p2.html" crc="4165193955" seo="true" mt="1534683814388" redirect="true"/>
   <file name="products.html" crc="4268458205" seo="true" mt="1534683773389" redirect="true"/>
   <file name="wisdom.html" crc="443365060" seo="true" mt="1534683773389" redirect="true"/>
