@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="MidnightItsAlmost.github.io" resolutions="1x" timestamp="1534685923953">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="MidnightItsAlmost.github.io" resolutions="1x" timestamp="1534686676522">
   <folder name="css">
     <file name="site_global.css" crc="149902051"/>
     <file name="master__fixed_-_4_-structure.css" crc="144737175" ref="offences:purchasing:activation:registration"/>
@@ -37,8 +37,8 @@
     <file name="nomq_history.css" crc="4106968104" ref="history"/>
     <file name="history-p5.css" crc="204069587" ref="history-p5"/>
     <file name="nomq_history-p5.css" crc="181591071" ref="history-p5"/>
-    <file name="registration.css" crc="471156695" ref="registration"/>
-    <file name="nomq_registration.css" crc="140042361" ref="registration"/>
+    <file name="registration.css" crc="4243722910" ref="registration"/>
+    <file name="nomq_registration.css" crc="330454917" ref="registration"/>
     <file name="development.css" crc="343769347" ref="development"/>
     <file name="nomq_development.css" crc="269905827" ref="development"/>
     <file name="history-p2.css" crc="178313819" ref="history-p2"/>
@@ -55,8 +55,8 @@
     <file name="nomq_history-p6.css" crc="183081631" ref="history-p6"/>
     <file name="the-sky-is-falling.css" crc="113350856" ref="the-sky-is-falling"/>
     <file name="nomq_the-sky-is-falling.css" crc="4164714185" ref="the-sky-is-falling"/>
-    <file name="structure.css" crc="371658745" ref="structure"/>
-    <file name="nomq_structure.css" crc="3967258606" ref="structure"/>
+    <file name="structure.css" crc="244717501" ref="structure"/>
+    <file name="nomq_structure.css" crc="132328986" ref="structure"/>
     <file name="history-p3.css" crc="3895091688" ref="history-p3"/>
     <file name="nomq_history-p3.css" crc="3890161569" ref="history-p3"/>
     <file name="contact.css" crc="4285416072" ref="contact"/>
@@ -686,8 +686,8 @@
     <file name="index-favicon.ico" crc="284952484" ref="index"/>
   </folder>
   <file name="index.html" crc="3838061958" seo="true" mt="1534684647696" redirect="true"/>
-  <file name="structure.html" crc="4120716525" seo="true" mt="1534683773389" redirect="true"/>
-  <file name="registration.html" crc="4294404759" seo="true" mt="1534683814388" redirect="true"/>
+  <file name="structure.html" crc="197194653" seo="true" mt="1534686152941" redirect="true"/>
+  <file name="registration.html" crc="4262534067" seo="true" mt="1534686624893" redirect="true"/>
   <file name="activation.html" crc="4262569386" seo="true" mt="1534683814388" redirect="true"/>
   <file name="purchasing.html" crc="4150399635" seo="true" mt="1534683814388" redirect="true"/>
   <file name="offences.html" crc="437293838" seo="true" mt="1534683814388" redirect="true"/>
