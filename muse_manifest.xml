@@ -1,6 +1,6 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="MidnightItsAlmost.github.io" resolutions="1x" timestamp="1534686676522">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="MidnightItsAlmost.github.io" resolutions="1x" timestamp="1534747565781">
   <folder name="css">
-    <file name="site_global.css" crc="149902051"/>
+    <file name="site_global.css" crc="3826224064"/>
     <file name="master__fixed_-_4_-structure.css" crc="144737175" ref="offences:purchasing:activation:registration"/>
     <file name="nomq_preview_master__fixed_-_4_-structure.css" crc="3987489769" ref="offences:purchasing:activation:registration"/>
     <file name="master__fixed_.css" crc="354645934" ref="offences:rvcs:history-p8:purchasing:history-p7:activation:history-p1:history:history-p5:registration:history-p2:history-p4:subject-matter:history-p6:the-sky-is-falling:history-p3:contact:electrical-engine:love-glasses"/>
@@ -65,19 +65,20 @@
     <file name="nomq_electrical-engine.css" crc="337740008" ref="electrical-engine"/>
     <file name="love-glasses.css" crc="3969439585" ref="love-glasses"/>
     <file name="nomq_love-glasses.css" crc="144995168" ref="love-glasses"/>
+    <file name="redirect.css" crc="182855704" ref="redirect"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:structure:registration:activation:purchasing:offences:contact:404:development:history-p1:history-p2:products:wisdom:history:love-glasses:electrical-engine:rvcs:the-sky-is-falling:subject-matter:history-p3:history-p4:history-p5:history-p6:history-p7:history-p8:home"/>
-    <file name="museutils.js" crc="340535759" ref="index:structure:registration:activation:purchasing:offences:contact:404:development:history-p1:history-p2:products:wisdom:history:love-glasses:electrical-engine:rvcs:the-sky-is-falling:subject-matter:history-p3:history-p4:history-p5:history-p6:history-p7:history-p8:home"/>
-    <file name="whatinput.js" crc="86476730" ref="index:structure:registration:activation:purchasing:offences:contact:404:development:history-p1:history-p2:products:wisdom:history:love-glasses:electrical-engine:rvcs:the-sky-is-falling:subject-matter:history-p3:history-p4:history-p5:history-p6:history-p7:history-p8:home"/>
-    <file name="museconfig.js" crc="310584261" ref="index:structure:registration:activation:purchasing:offences:contact:404:development:history-p1:history-p2:products:wisdom:history:love-glasses:electrical-engine:rvcs:the-sky-is-falling:subject-matter:history-p3:history-p4:history-p5:history-p6:history-p7:history-p8:home"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:structure:registration:activation:purchasing:offences:contact:404:development:history-p1:history-p2:products:wisdom:history:love-glasses:electrical-engine:rvcs:the-sky-is-falling:subject-matter:history-p3:history-p4:history-p5:history-p6:history-p7:history-p8:home:redirect"/>
+    <file name="museutils.js" crc="340535759" ref="index:structure:registration:activation:purchasing:offences:contact:404:development:history-p1:history-p2:products:wisdom:history:love-glasses:electrical-engine:rvcs:the-sky-is-falling:subject-matter:history-p3:history-p4:history-p5:history-p6:history-p7:history-p8:home:redirect"/>
+    <file name="whatinput.js" crc="86476730" ref="index:structure:registration:activation:purchasing:offences:contact:404:development:history-p1:history-p2:products:wisdom:history:love-glasses:electrical-engine:rvcs:the-sky-is-falling:subject-matter:history-p3:history-p4:history-p5:history-p6:history-p7:history-p8:home:redirect"/>
+    <file name="museconfig.js" crc="310584261" ref="index:structure:registration:activation:purchasing:offences:contact:404:development:history-p1:history-p2:products:wisdom:history:love-glasses:electrical-engine:rvcs:the-sky-is-falling:subject-matter:history-p3:history-p4:history-p5:history-p6:history-p7:history-p8:home:redirect"/>
     <file name="webpro.js" crc="4059564322" ref="index"/>
     <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
     <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
     <file name="touchswipe.js" crc="4075097462" ref="index"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:structure:registration:activation:purchasing:offences:contact:404:development:history-p1:history-p2:products:wisdom:history:love-glasses:electrical-engine:rvcs:the-sky-is-falling:subject-matter:history-p3:history-p4:history-p5:history-p6:history-p7:history-p8:home"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:structure:registration:activation:purchasing:offences:contact:404:development:history-p1:history-p2:products:wisdom:history:love-glasses:electrical-engine:rvcs:the-sky-is-falling:subject-matter:history-p3:history-p4:history-p5:history-p6:history-p7:history-p8:home:redirect"/>
     <file name="jquery.museresponsive.js" crc="527716135" ref="index:structure:registration:activation:purchasing:offences:contact:404:development:history-p1:history-p2:products:wisdom:history:love-glasses:electrical-engine:rvcs:the-sky-is-falling:subject-matter:history-p3:history-p4:history-p5:history-p6:history-p7:history-p8:home"/>
-    <file name="require.js" crc="7928878" ref="index:structure:registration:activation:purchasing:offences:contact:404:development:history-p1:history-p2:products:wisdom:history:love-glasses:electrical-engine:rvcs:the-sky-is-falling:subject-matter:history-p3:history-p4:history-p5:history-p6:history-p7:history-p8:home"/>
+    <file name="require.js" crc="7928878" ref="index:structure:registration:activation:purchasing:offences:contact:404:development:history-p1:history-p2:products:wisdom:history:love-glasses:electrical-engine:rvcs:the-sky-is-falling:subject-matter:history-p3:history-p4:history-p5:history-p6:history-p7:history-p8:home:redirect"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="structure:development:products:wisdom:home"/>
     <file name="jquery.musemenu.js" crc="510910590" ref="structure:registration:activation:purchasing:offences:contact:404:development:history-p1:history-p2:products:wisdom:history:love-glasses:electrical-engine:rvcs:the-sky-is-falling:subject-matter:history-p3:history-p4:history-p5:history-p6:history-p7:history-p8:home"/>
     <file name="html5shiv.js" crc="4241844378" ref="structure:registration:activation:purchasing:offences:contact:404:development:history-p1:history-p2:products:wisdom:history:love-glasses:electrical-engine:rvcs:the-sky-is-falling:subject-matter:history-p3:history-p4:history-p5:history-p6:history-p7:history-p8:home"/>
@@ -711,4 +712,5 @@
   <file name="history-p7.html" crc="4190620448" seo="true" mt="1534683814388" redirect="true"/>
   <file name="history-p8.html" crc="33866251" seo="true" mt="1534683814388" redirect="true"/>
   <file name="home.html" crc="3770436632" seo="true" mt="1534683773389" redirect="true"/>
+  <file name="redirect.html" crc="505407911" seo="true" mt="1534747546083" redirect="true"/>
 </manifest>
