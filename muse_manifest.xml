@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="MidnightItsAlmost.github.io" resolutions="1x" timestamp="1534778474645">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="MidnightItsAlmost.github.io" resolutions="1x" timestamp="1534778895313">
   <folder name="css">
     <file name="site_global.css" crc="149902051"/>
     <file name="master__fixed_-_4_-structure.css" crc="144737175" ref="offences:purchasing:activation:registration"/>
@@ -15,8 +15,8 @@
     <file name="nomq_preview_master__fixed_-_8_-history.css" crc="4182618164" ref="history-p8:history-p7:history-p1:history:history-p5:history-p2:history-p4:history-p6:history-p3"/>
     <file name="offences.css" crc="4082577950" ref="offences"/>
     <file name="nomq_offences.css" crc="469533193" ref="offences"/>
-    <file name="index.css" crc="4235744003" ref="index"/>
-    <file name="nomq_index.css" crc="395289125" ref="index"/>
+    <file name="index.css" crc="167334297" ref="index"/>
+    <file name="nomq_index.css" crc="411881103" ref="index"/>
     <file name="wisdom.css" crc="4163031882" ref="wisdom"/>
     <file name="nomq_wisdom.css" crc="3976281248" ref="wisdom"/>
     <file name="rvcs.css" crc="283991736" ref="rvcs"/>
@@ -672,7 +672,8 @@
     <file name="bk-home-page-fr.jpg" crc="3761249445" ref="home"/>
     <file name="bk-home-page-fr2.jpg" crc="3814859940" ref="home"/>
     <file name="bk-home-page-fr3.jpg" crc="153559400" ref="home"/>
-    <file name="symbol-1.png" crc="298486885" seo="true" ref="redirect">
+    <file name="symbol-1.png" crc="298486885" seo="true" ref="redirect:index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -705,7 +706,7 @@
     <file name="u441492-107.png" crc="7919921" ref="redirect"/>
     <file name="u441484-117.png" crc="62992150" ref="redirect"/>
   </folder>
-  <file name="index.html" crc="312067812" seo="true" mt="1534777945009" redirect="true"/>
+  <file name="index.html" crc="4188441837" seo="true" mt="1534778829710" redirect="true"/>
   <file name="structure.html" crc="197194653" seo="true" mt="1534686152941" redirect="true"/>
   <file name="registration.html" crc="4262534067" seo="true" mt="1534686624893" redirect="true"/>
   <file name="activation.html" crc="4262569386" seo="true" mt="1534683814388" redirect="true"/>

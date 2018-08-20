@@ -8,6 +8,9 @@
     <image:image>
       <image:loc>http://MidnightItsAlmost.github.io/images/mia-sym.gif</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://MidnightItsAlmost.github.io/images/symbol-1.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://MidnightItsAlmost.github.io/structure.html</loc>
