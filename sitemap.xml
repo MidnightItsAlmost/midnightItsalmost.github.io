@@ -13,6 +13,39 @@
     </image:image>
   </url>
   <url>
+    <loc>http://MidnightItsAlmost.github.io/history.html</loc>
+    <lastmod>2018-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://MidnightItsAlmost.github.io/images/mia-sym.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://MidnightItsAlmost.github.io/images/bk-history.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://MidnightItsAlmost.github.io/images/header-history.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://MidnightItsAlmost.github.io/images/bk-history-crop-u231916.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://MidnightItsAlmost.github.io/images/bk-history-crop-u2319162.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://MidnightItsAlmost.github.io/images/bk-history-crop-u2319163.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://MidnightItsAlmost.github.io/images/bk-history-crop-u2319164.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://MidnightItsAlmost.github.io/images/symbol-1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://MidnightItsAlmost.github.io/images/bk-symbol.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://MidnightItsAlmost.github.io/structure.html</loc>
     <lastmod>2018-08-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -280,7 +313,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://MidnightItsAlmost.github.io/history.html</loc>
+    <loc>http://MidnightItsAlmost.github.io/history-p4.html</loc>
     <lastmod>2018-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -294,16 +327,16 @@
       <image:loc>http://MidnightItsAlmost.github.io/images/header-history.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://MidnightItsAlmost.github.io/images/bk-history-crop-u231916.jpg</image:loc>
+      <image:loc>http://MidnightItsAlmost.github.io/images/bk-history-crop-u325516.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://MidnightItsAlmost.github.io/images/bk-history-crop-u2319162.jpg</image:loc>
+      <image:loc>http://MidnightItsAlmost.github.io/images/bk-history-crop-u3255162.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://MidnightItsAlmost.github.io/images/bk-history-crop-u2319163.jpg</image:loc>
+      <image:loc>http://MidnightItsAlmost.github.io/images/bk-history-crop-u3255163.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://MidnightItsAlmost.github.io/images/bk-history-crop-u2319164.jpg</image:loc>
+      <image:loc>http://MidnightItsAlmost.github.io/images/bk-history-crop-u3255164.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://MidnightItsAlmost.github.io/images/symbol-1.png</image:loc>
@@ -514,7 +547,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://MidnightItsAlmost.github.io/history-p4.html</loc>
+    <loc>http://MidnightItsAlmost.github.io/history-p8.html</loc>
     <lastmod>2018-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -528,16 +561,16 @@
       <image:loc>http://MidnightItsAlmost.github.io/images/header-history.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://MidnightItsAlmost.github.io/images/bk-history-crop-u325516.jpg</image:loc>
+      <image:loc>http://MidnightItsAlmost.github.io/images/bk-history-crop-u340017.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://MidnightItsAlmost.github.io/images/bk-history-crop-u3255162.jpg</image:loc>
+      <image:loc>http://MidnightItsAlmost.github.io/images/bk-history-crop-u3400172.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://MidnightItsAlmost.github.io/images/bk-history-crop-u3255163.jpg</image:loc>
+      <image:loc>http://MidnightItsAlmost.github.io/images/bk-history-crop-u3400173.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://MidnightItsAlmost.github.io/images/bk-history-crop-u3255164.jpg</image:loc>
+      <image:loc>http://MidnightItsAlmost.github.io/images/bk-history-crop-u3400174.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://MidnightItsAlmost.github.io/images/symbol-1.png</image:loc>
@@ -646,36 +679,12 @@
     </image:image>
   </url>
   <url>
-    <loc>http://MidnightItsAlmost.github.io/history-p8.html</loc>
-    <lastmod>2018-08-21</lastmod>
+    <loc>http://MidnightItsAlmost.github.io/redirect.html</loc>
+    <lastmod>2018-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://MidnightItsAlmost.github.io/images/mia-sym.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://MidnightItsAlmost.github.io/images/bk-history.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://MidnightItsAlmost.github.io/images/header-history.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://MidnightItsAlmost.github.io/images/bk-history-crop-u340017.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://MidnightItsAlmost.github.io/images/bk-history-crop-u3400172.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://MidnightItsAlmost.github.io/images/bk-history-crop-u3400173.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://MidnightItsAlmost.github.io/images/bk-history-crop-u3400174.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://MidnightItsAlmost.github.io/images/symbol-1.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://MidnightItsAlmost.github.io/images/bk-symbol.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -688,12 +697,42 @@
     </image:image>
   </url>
   <url>
-    <loc>http://MidnightItsAlmost.github.io/redirect.html</loc>
-    <lastmod>2018-08-20</lastmod>
+    <loc>http://MidnightItsAlmost.github.io/the-sky-is-falling-copy.html</loc>
+    <lastmod>2018-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
+      <image:loc>http://MidnightItsAlmost.github.io/images/mia-sym.gif</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://MidnightItsAlmost.github.io/images/symbol-1.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://MidnightItsAlmost.github.io/images/bk-symbol.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://MidnightItsAlmost.github.io/images/bk-purgatory.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://MidnightItsAlmost.github.io/images/header-purgatory.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://MidnightItsAlmost.github.io/images/bk-purgatory-crop-u446934.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://MidnightItsAlmost.github.io/images/bk-purgatory-crop-u4469342.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://MidnightItsAlmost.github.io/images/bk-purgatory-crop-u4469343.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://MidnightItsAlmost.github.io/images/bk-purgatory-crop-u4469344.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://MidnightItsAlmost.github.io/assets/purgatory.mp3</loc>
+    <lastmod>2018-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
