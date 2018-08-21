@@ -17,12 +17,12 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <link rel="shortcut icon" href="images/(_fluid_)-favicon.ico?crc=284952484"/>
   <title>Wisdom</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=149902051"/>
-  <link rel="stylesheet" type="text/css" href="css/master___fluid__.css?crc=3793797617"/>
-  <link rel="stylesheet" type="text/css" href="css/wisdom.css?crc=4163031882" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=3826224064"/>
+  <link rel="stylesheet" type="text/css" href="css/master___fluid__.css?crc=4274876334"/>
+  <link rel="stylesheet" type="text/css" href="css/wisdom.css?crc=171428531" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
-  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master___fluid__.css?crc=3797421432"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master___fluid__.css?crc=233930850"/>
   <link rel="stylesheet" type="text/css" href="css/nomq_wisdom.css?crc=3976281248" id="nomq_pagesheet"/>
   <![endif]-->
   <!-- JS includes -->
@@ -391,8 +391,8 @@ Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.initWidget('.MenuBar', ['#bp_infinity', '#bp_1080', '#bp_900', '#bp_720', '#bp_600', '#bp_480', '#bp_320'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 Muse.Utils.fullPage('#page');/* 100% height page */
 $('#bp_320').one('muse_this_bp_activate', function(){
-$('#u419402').registerPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,-0.05]},{"speed":[0,0],"in":[-0.05,Infinity]}], $(this)); /* scroll effect */
-$('#menuu419403').registerPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,-0.05]},{"speed":[0,0],"in":[-0.05,Infinity]}], $(this)); /* scroll effect */
+$('#u419402').registerPositionScrollEffect([{"in":[-Infinity,-0.05],"speed":[0,0]},{"in":[-0.05,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+$('#menuu419403').registerPositionScrollEffect([{"in":[-Infinity,-0.05],"speed":[0,0]},{"in":[-0.05,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
