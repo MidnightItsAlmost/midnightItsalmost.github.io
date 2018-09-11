@@ -11,21 +11,21 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musemenu.js", "jquery.watch.js", "jquery.museresponsive.js", "require.js", "jquery.scrolleffects.js", "history.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musemenu.js", "jquery.watch.js", "jquery.scrolleffects.js", "jquery.museresponsive.js", "require.js", "history.css"], "outOfDate":[]};
 </script>
   
   <link rel="shortcut icon" href="images/history-fx-favicon.ico?crc=284952484"/>
   <title>History</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=3826224064"/>
-  <link rel="stylesheet" type="text/css" href="css/master__fixed_.css?crc=6260693"/>
-  <link rel="stylesheet" type="text/css" href="css/master__fixed_-history.css?crc=312461235"/>
-  <link rel="stylesheet" type="text/css" href="css/history.css?crc=509927917" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=149902051"/>
+  <link rel="stylesheet" type="text/css" href="css/master__fixed_.css?crc=4271605173"/>
+  <link rel="stylesheet" type="text/css" href="css/master__fixed_-history.css?crc=73673413"/>
+  <link rel="stylesheet" type="text/css" href="css/history.css?crc=3780031172" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
-  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master__fixed_.css?crc=329954583"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master__fixed_.css?crc=274881831"/>
   <link rel="stylesheet" type="text/css" href="css/nomq_preview_master__fixed_-history.css?crc=4201647852"/>
-  <link rel="stylesheet" type="text/css" href="css/nomq_history.css?crc=3919509321" id="nomq_pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_history.css?crc=3830276926" id="nomq_pagesheet"/>
   <![endif]-->
   <!-- JS includes -->
   <!--[if lt IE 9]>
@@ -679,14 +679,14 @@ Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.initWidget('.MenuBar', ['#bp_infinity', '#bp_1080', '#bp_900', '#bp_720', '#bp_600', '#bp_480', '#bp_320'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 Muse.Utils.fullPage('#page');/* 100% height page */
-$('#bp_infinity').one('muse_this_bp_activate', function(){
+$('#bp_900').one('muse_this_bp_activate', function(){
 $('#u231916').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 $('#u443425').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 $('#u445292').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 $('#u443427').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 $('#u405937').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 $('#menuu405938').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-$('#menuu387465').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+$('#menuu387415').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $('#bp_600').one('muse_this_bp_activate', function(){
 $('#u231916').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
@@ -698,24 +698,6 @@ $('#menuu405880').registerPositionScrollEffect([{"in":[-Infinity,0.05],"speed":[
 $('#menuu387314').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 $('#menuu387336').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
-$('#bp_900').one('muse_this_bp_activate', function(){
-$('#u231916').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-$('#u443425').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-$('#u445292').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-$('#u443427').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-$('#u405937').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-$('#menuu405938').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-$('#menuu387415').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-});/* scroll effects for one breakpoint */
-$('#bp_720').one('muse_this_bp_activate', function(){
-$('#u231916').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-$('#u443425').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-$('#u445292').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-$('#u443427').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-$('#u405937').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-$('#menuu405938').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-$('#menuu387365').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-});/* scroll effects for one breakpoint */
 $('#bp_480').one('muse_this_bp_activate', function(){
 $('#u231916').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 $('#u443425').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
@@ -726,15 +708,23 @@ $('#menuu405822').registerPositionScrollEffect([{"in":[-Infinity,0.05],"speed":[
 $('#menuu387314').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 $('#menuu387336').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
-$('#bp_320').one('muse_this_bp_activate', function(){
+$('#bp_720').one('muse_this_bp_activate', function(){
 $('#u231916').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 $('#u443425').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 $('#u445292').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 $('#u443427').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-$('#u405821').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-$('#menuu405822').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-$('#menuu387314').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-$('#menuu387336').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+$('#u405937').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+$('#menuu405938').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+$('#menuu387365').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+});/* scroll effects for one breakpoint */
+$('#bp_infinity').one('muse_this_bp_activate', function(){
+$('#u231916').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+$('#u443425').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+$('#u445292').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+$('#u443427').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+$('#u405937').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+$('#menuu405938').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+$('#menuu387465').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $('#bp_1080').one('muse_this_bp_activate', function(){
 $('#u231916').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
@@ -744,6 +734,16 @@ $('#u443427').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{
 $('#u405937').registerPositionScrollEffect([{"in":[-Infinity,0.4],"speed":[0,0]},{"in":[0.4,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 $('#menuu405938').registerPositionScrollEffect([{"in":[-Infinity,0.4],"speed":[0,0]},{"in":[0.4,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 $('#menuu387465').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+});/* scroll effects for one breakpoint */
+$('#bp_320').one('muse_this_bp_activate', function(){
+$('#u231916').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+$('#u443425').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+$('#u445292').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+$('#u443427').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+$('#u405821').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+$('#menuu405822').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+$('#menuu387314').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+$('#menuu387336').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */

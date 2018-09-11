@@ -17,15 +17,15 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <link rel="shortcut icon" href="images/electrical-engine-fx-favicon.ico?crc=284952484"/>
   <title>Electrical Engine</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=3826224064"/>
-  <link rel="stylesheet" type="text/css" href="css/master__fixed_.css?crc=6260693"/>
-  <link rel="stylesheet" type="text/css" href="css/master__fixed_-products.css?crc=64144293"/>
-  <link rel="stylesheet" type="text/css" href="css/electrical-engine.css?crc=4270381691" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=149902051"/>
+  <link rel="stylesheet" type="text/css" href="css/master__fixed_.css?crc=4271605173"/>
+  <link rel="stylesheet" type="text/css" href="css/master__fixed_-products.css?crc=3809394249"/>
+  <link rel="stylesheet" type="text/css" href="css/electrical-engine.css?crc=3947940272" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
-  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master__fixed_.css?crc=329954583"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master__fixed_.css?crc=274881831"/>
   <link rel="stylesheet" type="text/css" href="css/nomq_preview_master__fixed_-products.css?crc=4019237220"/>
-  <link rel="stylesheet" type="text/css" href="css/nomq_electrical-engine.css?crc=75397148" id="nomq_pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_electrical-engine.css?crc=3979041077" id="nomq_pagesheet"/>
   <![endif]-->
   <!-- JS includes -->
   <!--[if lt IE 9]>
@@ -523,23 +523,24 @@ Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.initWidget('.MenuBar', ['#bp_infinity', '#bp_1080', '#bp_900', '#bp_720', '#bp_600', '#bp_480', '#bp_320'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 Muse.Utils.fullPage('#page');/* 100% height page */
-$('#bp_infinity').one('muse_this_bp_activate', function(){
+$('#bp_900').one('muse_this_bp_activate', function(){
 $('#u308709').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 $('#u444182').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 $('#u445950').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 $('#u445952').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-$('#u412065').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+$('#u412065').registerPositionScrollEffect([{"in":[-Infinity,-0.3],"speed":[0,0]},{"in":[-0.3,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 $('#menuu412066').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-$('#menuu387465').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+$('#menuu387415').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
-$('#bp_720').one('muse_this_bp_activate', function(){
+$('#bp_600').one('muse_this_bp_activate', function(){
 $('#u308709').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 $('#u444182').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 $('#u445950').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 $('#u445952').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-$('#u412065').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-$('#menuu412066').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-$('#menuu387365').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+$('#u412042').registerPositionScrollEffect([{"in":[-Infinity,0.05],"speed":[0,0]},{"in":[0.05,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+$('#menuu412043').registerPositionScrollEffect([{"in":[-Infinity,0.05],"speed":[0,0]},{"in":[0.05,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+$('#menuu387314').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+$('#menuu387336').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $('#bp_480').one('muse_this_bp_activate', function(){
 $('#u308709').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
@@ -551,6 +552,24 @@ $('#menuu412020').registerPositionScrollEffect([{"in":[-Infinity,0.05],"speed":[
 $('#menuu387314').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 $('#menuu387336').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
+$('#bp_720').one('muse_this_bp_activate', function(){
+$('#u308709').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+$('#u444182').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+$('#u445950').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+$('#u445952').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+$('#u412065').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+$('#menuu412066').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+$('#menuu387365').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+});/* scroll effects for one breakpoint */
+$('#bp_infinity').one('muse_this_bp_activate', function(){
+$('#u308709').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+$('#u444182').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+$('#u445950').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+$('#u445952').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+$('#u412065').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+$('#menuu412066').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+$('#menuu387465').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+});/* scroll effects for one breakpoint */
 $('#bp_1080').one('muse_this_bp_activate', function(){
 $('#u308709').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 $('#u444182').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
@@ -560,15 +579,6 @@ $('#u412065').registerPositionScrollEffect([{"in":[-Infinity,0.4],"speed":[0,0]}
 $('#menuu412066').registerPositionScrollEffect([{"in":[-Infinity,0.4],"speed":[0,0]},{"in":[0.4,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 $('#menuu387465').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
-$('#bp_900').one('muse_this_bp_activate', function(){
-$('#u308709').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-$('#u444182').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-$('#u445950').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-$('#u445952').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-$('#u412065').registerPositionScrollEffect([{"in":[-Infinity,-0.3],"speed":[0,0]},{"in":[-0.3,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-$('#menuu412066').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-$('#menuu387415').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-});/* scroll effects for one breakpoint */
 $('#bp_320').one('muse_this_bp_activate', function(){
 $('#u308709').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 $('#u444182').registerPositionScrollEffect([{"in":[-Infinity,0.2],"speed":[0,0]},{"in":[0.2,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
@@ -576,16 +586,6 @@ $('#u445950').registerPositionScrollEffect([{"in":[-Infinity,0.2],"speed":[0,0]}
 $('#u445952').registerPositionScrollEffect([{"in":[-Infinity,0.2],"speed":[0,0]},{"in":[0.2,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 $('#u412019').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 $('#menuu412020').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-$('#menuu387314').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-$('#menuu387336').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-});/* scroll effects for one breakpoint */
-$('#bp_600').one('muse_this_bp_activate', function(){
-$('#u308709').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-$('#u444182').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-$('#u445950').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-$('#u445952').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-$('#u412042').registerPositionScrollEffect([{"in":[-Infinity,0.05],"speed":[0,0]},{"in":[0.05,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-$('#menuu412043').registerPositionScrollEffect([{"in":[-Infinity,0.05],"speed":[0,0]},{"in":[0.05,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 $('#menuu387314').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 $('#menuu387336').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
